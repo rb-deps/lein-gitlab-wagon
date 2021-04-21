@@ -24,7 +24,7 @@ The `lein-gitlab-wagon` is a wrapper around the standard HTTP wagon. It will acc
 Add the plugin to your `project.clj`.
 
 ```clj
-:plugins [[com.rb.deps/lein-gitlab-wagon "1.0.0"]]
+:plugins [[com.github.rb-deps/lein-gitlab-wagon "1.0.0"]]
 ```
 
 When configuring you GitLab maven repository in the project.clj, you can specify the GitLab token type (`Private-Token` or `Job-Token`) using `:username`.
@@ -78,7 +78,7 @@ There should be no need to use this in a maven project, as the standard wagon wi
      <build>
         <extensions>
             <extension>
-                <groupId>com.rb.deps</groupId>
+                <groupId>com.github.rb-deps</groupId>
                 <artifactId>lein-gitlab-wagon</artifactId>
                 <version>1.0.0</version>
             </extension>
