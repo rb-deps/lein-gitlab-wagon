@@ -1,1 +1,1 @@
-{"gitlab" #(com.nicheware.maven.LeinGitlabWagon.)}
+{"gitlab" #(com.rb-deps.maven.LeinGitlabWagon.)}

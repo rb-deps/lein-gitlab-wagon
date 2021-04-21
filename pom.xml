@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>nicheware</groupId>
+    <groupId>com.rb-deps</groupId>
     <artifactId>lein-gitlab-wagon</artifactId>
     <version>1.0.0</version>
     <description>Deploy and consume artifacts from a private GitLab repository, using username/password configuration for token-type/token headers.</description>
-    <url>https://github.com/nicheware/lein-gitlab-wagon</url>
+    <url>https://github.com/rb-deps/lein-gitlab-wagon</url>
     <scm>
-        <connection>scm:git:git://github.com/nicheware/lein-gitlab-wagon.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/nicheware/lein-gitlab-wagon.git</developerConnection>
-        <url>https://github.com/nicheware/lein-gitlab-wagon</url>
+        <connection>scm:git:git://github.com/rb-deps/lein-gitlab-wagon.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/rb-deps/lein-gitlab-wagon.git</developerConnection>
+        <url>https://github.com/rb-deps/lein-gitlab-wagon</url>
     </scm>
 
     <licenses>
