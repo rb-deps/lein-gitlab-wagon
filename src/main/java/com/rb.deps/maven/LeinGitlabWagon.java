@@ -1,4 +1,4 @@
-package com.rb-deps.maven;
+package com.rb.deps.maven;
 
 /*
  * Copyright 2010-2011 the original author or authors.

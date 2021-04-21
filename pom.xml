@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.rb-deps</groupId>
+    <groupId>com.rb.deps</groupId>
     <artifactId>lein-gitlab-wagon</artifactId>
     <version>1.0.0</version>
     <description>Deploy and consume artifacts from a private GitLab repository, using username/password configuration for token-type/token headers.</description>

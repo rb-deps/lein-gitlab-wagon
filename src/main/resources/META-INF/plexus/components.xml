@@ -3,7 +3,7 @@
         <component>
             <role>org.apache.maven.wagon.Wagon</role>
             <role-hint>gitlab</role-hint>
-            <implementation>com.rb-deps.maven.LeinGitlabWagon</implementation>
+            <implementation>com.rb.deps.maven.LeinGitlabWagon</implementation>
             <instantiation-strategy>per-lookup</instantiation-strategy>
         </component>
     </components>
